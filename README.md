@@ -1,8 +1,8 @@
-# Hi, I'm Leonid Tots 👋
+# Hi, I'm Leonid Tots
 
-🎓 Information Systems and Technologies student
-💻 Interested in Backend Development, Cloud Technologies and Web Development
-🚀 Building projects with Python, JavaScript and Yandex Cloud
+- Information Systems and Technologies student
+- Interested in Backend Development, Cloud Technologies and Web Development
+- Building projects with Python, JavaScript and Yandex Cloud
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huksleva/huksleva/output/github-snake-dark.svg" />
