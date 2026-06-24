@@ -10,7 +10,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/huksleva/huksleva/output/github-snake.svg" />
 </picture>
 
----
+
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge)
 
----
+
 
 ## Featured Projects
 
@@ -34,21 +34,25 @@ Coursework project on epidemic spread modelling.
 ### Portfolio Website
 Personal portfolio and resume website. *Coming soon...*
 
----
+
 
 ## Contacts
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid005xc@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pots135)
 
----
+
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" width="49%" />
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huksleva&layout=compact" alt="Top Languages" width="49%" />
 
