@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Information+Systems+student;Backend+%26+Cloud+development;Python+%2F+JavaScript+%2F+Yandex+Cloud)](https://git.io/typing-svg)
+
+</div>
+
 # Hi, I'm Leonid Tots
 
 - Information Systems and Technologies student
