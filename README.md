@@ -30,6 +30,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=flat)
+![Alembic](https://img.shields.io/badge/Alembic-d4d4d4?style=flat&logo=alembic&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d71f00?style=flat&logo=sqlalchemy&logoColor=white)
+
 
 <br><br>
 
