@@ -47,11 +47,11 @@ Personal portfolio and resume website. *Coming soon...*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" height="195" style="border-radius: 8px;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" height="195" style="border-radius: 8px;" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huksleva&layout=compact" alt="Top Languages" width="49%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=huksleva" alt="GitHub Trophies" width="49%" />
+<img src="https://github-trophies.vercel.app/?username=huksleva" alt="GitHub Trophies" width="49%" />
 
 </div>
