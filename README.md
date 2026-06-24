@@ -1,6 +1,7 @@
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
 
-<b>&gt;</b> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=Information+Systems+student;Backend+%26+Cloud+development;Python+%2F+JavaScript+%2F+Yandex+Cloud" />
+<b style="font-family: monospace; font-size: 22px; color: #58A6FF;">&gt;</b>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=Information+Systems+student;Backend+%26+Cloud+development;Python+%2F+JavaScript+%2F+Yandex+Cloud" />
 
 </div>
 
