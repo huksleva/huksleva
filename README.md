@@ -45,15 +45,17 @@ Personal portfolio and resume website. *Coming soon...*
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva&hide_border=true" alt="GitHub Streak" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huksleva&layout=compact" alt="Top Languages" width="49%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=huksleva&theme=onedark" alt="GitHub Trophies" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huksleva" alt="Activity Graph" width="98%" />
 
 </div>
