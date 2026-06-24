@@ -45,8 +45,11 @@ Personal portfolio and resume website. *Coming soon...*
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huksleva&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huksleva)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=huksleva&show_icons=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=huksleva" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huksleva&layout=compact" alt="Top Languages" width="49%" />
+
+</div>
