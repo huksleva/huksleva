@@ -1,9 +1,4 @@
-<table align="center" border="0">
-<tr>
-<td valign="middle"><b><font color="#58A6FF" face="monospace" size="4">&gt;</font></b></td>
-<td valign="middle"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=Information+Systems+student;Backend+%26+Cloud+development;Python+%2F+JavaScript+%2F+Yandex+Cloud" /></td>
-</tr>
-</table>
+**>** [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=Information+Systems+student;Backend+%26+Cloud+development;Python+%2F+JavaScript+%2F+Yandex+Cloud)](https://git.io/typing-svg)
 
 # Hi, I'm Leonid Tots
 
