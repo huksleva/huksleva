@@ -10,7 +10,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/huksleva/huksleva/output/github-snake.svg" />
 </picture>
 
-
+<br><br>
 
 ## Tech Stack
 
@@ -21,27 +21,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge)
 
-
+<br><br>
 
 ## Featured Projects
+
+<br>
 
 ### Tramplin AI Career Platform
 Interactive career platform for students, employers and administrators.
 
+<br>
+
 ### Computer Simulation Coursework
 Coursework project on epidemic spread modelling.
+
+<br>
 
 ### Portfolio Website
 Personal portfolio and resume website. *Coming soon...*
 
-
+<br>
 
 ## Contacts
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid005xc@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pots135)
 
-
+<br><br>
 
 ## GitHub Analytics
 
