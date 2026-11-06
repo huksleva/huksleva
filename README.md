@@ -1,14 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%3E+Information+Systems+student;%3E+Backend+%26+Cloud+development;%3E+Python+%2F+JavaScript+%2F+Yandex+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=%3E+C%2B%2B+%2F+C+developer;%3E+Algorithms+%C2%B7+Systems+programming;%3E+Also%3A+C%23+%C2%B7+Python+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
 </div>
 
 # Hi, I'm Leonid Tots
 
-- Information Systems and Technologies student
-- Interested in Backend Development, Cloud Technologies and Web Development
-- Building projects with Python, JavaScript and Yandex Cloud
+- Developer working with C, C++, C# and Python
+- Studying Informatics and Computer Engineering (09.03.01) at Herzen University, Saint Petersburg
+- Interested in systems programming, algorithms and backend development
+- 2nd place at IF...ELSE 2026 hackathon with [Tramplin](https://github.com/NerdySnake6/Tramplin-ai-career-platform)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huksleva/huksleva/output/github-snake-dark.svg" />
@@ -20,9 +21,12 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -44,20 +48,20 @@
 
 ## Featured Projects
 
-<br>
+### [mp3tag](https://github.com/huksleva/C_mp3) · C11
+CLI editor for ID3v2 tags in MP3 files: binary format parsing, synchsafe sizes, frame replacement. CMake, ctest, GitHub Actions.
 
-### Tramplin AI Career Platform
-Interactive career platform for students, employers and administrators.
+### [Numerical methods](https://github.com/huksleva/computer_simulation) · C++
+Gaussian elimination with pivoting, LU decomposition, rotation method, Lagrange interpolation. Team coursework.
 
-<br>
+### [Wukong Benchmark Automation](https://github.com/huksleva/wukong-benchmark-automation) · C# / .NET 8
+Benchmark automation via Win32 API and OCR with HTML/JSON reports, layered architecture, tests and CI.
 
-### Computer Simulation Coursework
-Coursework project on epidemic spread modelling.
+### [Tramplin AI Career Platform](https://github.com/NerdySnake6/Tramplin-ai-career-platform) · Python
+Career platform with FastAPI, PostgreSQL, LLM features and two-tier moderation. 2nd place at IF...ELSE 2026.
 
-<br>
-
-### Portfolio Website
-Personal portfolio and resume website. *Coming soon...*
+### [Portfolio](https://leonidtots.dev)
+Personal portfolio website built with Next.js and TypeScript.
 
 <br>
 
